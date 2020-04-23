@@ -24,7 +24,7 @@ import java.util.concurrent.CompletableFuture;
 
 public class AsyncClass extends AsyncTask<String, Void, JSONArray> {
 
-    public String server_name = "https://historyquizapp1.000webhostapp.com";
+    public String server_name = "https://historyquizapp2.000webhostapp.com";
     public HttpURLConnection conn;
 
     private JSONArray addCategoryScore(String bestscore, String difficulty, String category_id){
