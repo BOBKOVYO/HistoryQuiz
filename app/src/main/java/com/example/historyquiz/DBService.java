@@ -27,7 +27,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 
 public class DBService {
-    String server_name = "https://historyquizapp2.000webhostapp.com";
+    String server_name = "https://historyquizapp1.000webhostapp.com";
     HttpURLConnection conn;
     Cursor cursor;
 
